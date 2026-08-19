@@ -3,6 +3,10 @@
 > **Версия:** 7.0 | **Статус:** Production Ready | **Автор:** Полностью авторская система с нуля
 
 ---
+**Youtube Link: https://youtu.be/MQmIceq9Q4E?si=apTVblmbKWbDd0Em**
+
+
+
 
 ## Суть проекта
 
